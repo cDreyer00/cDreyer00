@@ -16,4 +16,6 @@
   </a>
   <a href="https://www.linkedin.com/in/cristian-dreyer-26676b200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
