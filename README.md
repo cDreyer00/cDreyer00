@@ -1,4 +1,4 @@
-## Sou Cristian, e aqui está um pedaço do meu trabalho:
+## I'm Cristian, and here are little of my work:
 
 <div align="center">
   <a href="https://github.com/cDreyer00">
