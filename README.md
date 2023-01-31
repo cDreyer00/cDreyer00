@@ -15,3 +15,16 @@
   <a href="https://www.linkedin.com/in/cristian-dreyer-26676b200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+## Skills
+
+### Languages
+<div>
+  <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40">
+  <img alt="TypeScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="40">
+  <img alt="CSharp" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" height="40">
+  <img alt="Python" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" height="40">
+  <img alt="HTMl" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="40">
+  <img alt="CSS" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="40">
+  <img alt="SQL" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="40">
+</div>
